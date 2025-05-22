@@ -15,4 +15,5 @@ console.log("Id of the kavi is: " + Kavi.getId());
 console.log("html marks of the kavi is: " + Kavi.gethtmlMarks());
 console.log("js marks of the kavi is: " + Kavi.getjsMarks());
 console.log("css marks of the kavi is: " + Kavi.getcssMarks());
+console.log("Average marks of the kavi is: " + Kavi.getAvgMarks());
 //# sourceMappingURL=studentObj.js.map
